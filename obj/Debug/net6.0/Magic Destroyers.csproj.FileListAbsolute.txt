@@ -1,0 +1,15 @@
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\bin\Debug\net6.0\Magic Destroyers.exe
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\bin\Debug\net6.0\Magic Destroyers.deps.json
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\bin\Debug\net6.0\Magic Destroyers.runtimeconfig.json
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\bin\Debug\net6.0\Magic Destroyers.dll
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\bin\Debug\net6.0\Magic Destroyers.pdb
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\Magic Destroyers.csproj.AssemblyReference.cache
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\Magic Destroyers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\Magic Destroyers.AssemblyInfoInputs.cache
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\Magic Destroyers.AssemblyInfo.cs
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\Magic Destroyers.csproj.CoreCompileInputs.cache
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\Magic Destroyers.dll
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\refint\Magic Destroyers.dll
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\Magic Destroyers.pdb
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\Magic Destroyers.genruntimeconfig.cache
+C:\Users\luimagallan\Desktop\Projects\MagicDestroyers\obj\Debug\net6.0\ref\Magic Destroyers.dll
