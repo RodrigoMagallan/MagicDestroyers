@@ -1,7 +1,16 @@
 namespace MagicDestroyer.Equipment.Weapons
 {
-    class Axe
+    public class Axe
     {
+        private int damage;
+        public Axe()
+        {
 
+        }
+
+        public void HackNSlash()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

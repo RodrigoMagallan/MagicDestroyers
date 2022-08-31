@@ -5,9 +5,25 @@ namespace MagicDestroyer.Characters.Spellcasters
     class Druid
     {
         private int abilityPoints;
-        private string? faction;
         private int healthPoints;
         private int level;
-        private string? name;
+        private string faction;
+        private string name;
+        public Druid()//constructor
+        {
+
+        }
+         public void MoonFire()
+        {
+            throw new NotImplementedException();
+        }
+         public void Starbust()
+        {
+            throw new NotImplementedException();
+        }
+         public void OneWithTheNature()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

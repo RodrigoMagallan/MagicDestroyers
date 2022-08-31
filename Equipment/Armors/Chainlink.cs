@@ -1,7 +1,11 @@
 namespace MagicDestroyer.Equipment.Armors
 {
-    class ChainLink
+    public class ChainLink
     {
+        private int armorPoints;
+        public ChainLink()
+        {
 
+        }
     }
 }
