@@ -1,4 +1,6 @@
 using System;
+using MagicDestroyer.Equipment.Armors;
+using MagicDestroyer.Equipment.Weapons;
 
 namespace MagicDestroyer.Characters.Melee
 {
@@ -9,7 +11,8 @@ namespace MagicDestroyer.Characters.Melee
         private int level;
         private string faction;
         private string name;
-
+        private ChainLink bodyArmor;
+        private Hammer weapon;
         public Knight() //constructor
         {
 

@@ -1,4 +1,6 @@
 using System;
+using MagicDestroyer.Equipment.Armors;
+using MagicDestroyer.Equipment.Weapons;
 
 namespace MagicDestroyer.Characters.Spellcasters
 {
@@ -9,6 +11,8 @@ namespace MagicDestroyer.Characters.Spellcasters
         private int level;
         private string faction;
         private string name;
+        private ClothRobe bodyArmor;
+        private Staff weapon;
         public Mage() //constructor
         {
 

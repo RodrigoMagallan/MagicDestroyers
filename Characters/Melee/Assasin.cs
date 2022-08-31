@@ -1,4 +1,7 @@
+using System.Security.AccessControl;
 using System;
+using MagicDestroyer.Equipment.Armors;
+using MagicDestroyer.Equipment.Weapons;
 
 namespace MagicDestroyer.Characters.Melee
 {
@@ -9,7 +12,8 @@ namespace MagicDestroyer.Characters.Melee
         private int healthPoints;
         private int level;
         private string name;
-
+        private LightLeatherVest bodyArmor;
+        private Sword weapon;
         public Assasin() //constructor
         {
 
