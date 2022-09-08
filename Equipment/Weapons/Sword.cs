@@ -3,19 +3,15 @@ namespace MagicDestroyer.Equipment.Weapons
     class Sword
     {
         private int damage;
-
-        public Sword()
+ public int Damage
         {
-
-        }
-        public int Damage { 
             get
             {
                 return damage;
-            } 
+            }
             set
             {
-                if(value >= 0)
+                if (value >= 0)
                 {
                     damage = value;
                 }
@@ -24,7 +20,12 @@ namespace MagicDestroyer.Equipment.Weapons
                     throw new ArgumentOutOfRangeException(string.Empty, "Damage need to be positive");
                 }
             }
-             }
+        }
+        public Sword()
+        {
+
+        }
+       
         public void Bloodthirst()
         {
             throw new NotImplementedException();
